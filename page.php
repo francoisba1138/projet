@@ -1,3 +1,3 @@
 <?php
 
-echo "page";
+echo "Notre super page";
