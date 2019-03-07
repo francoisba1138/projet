@@ -1,3 +1,3 @@
 <?php
 
-echo "fournisseurs";
+echo "Nos fournisseurs";
