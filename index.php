@@ -2,6 +2,5 @@
 
 // Projet
 
-echo "Notre Projeeeeeeeet !";
-
+echo "Notre Projet";
 
