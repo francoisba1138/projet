@@ -2,5 +2,5 @@
 
 // Projet
 
-echo "Mon Projet";
+echo "Notre Projet";
 
